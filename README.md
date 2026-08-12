@@ -30,8 +30,6 @@
     <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch" width="40" height="40" title="Sketch" />
     <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="InVision" width="40" height="40" title="InVision" />
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="40" height="40" title="Framer" />
-    <img src="https://www.vectorlogo.zone/logos/miro/miro-icon.svg" alt="Miro" width="40" height="40" title="Miro (User Research & Flows)" />
-    <img src="https://www.vectorlogo.zone/logos/zeplin/zeplin-icon.svg" alt="Zeplin" width="40" height="40" title="Zeplin" />
   </div>
 </div>
 
@@ -41,7 +39,6 @@
   <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" title="Adobe Photoshop" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="40" height="40" title="Adobe Illustrator" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premiere/premiere-plain.svg" alt="Premiere Pro" width="40" height="40" title="Adobe Premiere Pro" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-plain.svg" alt="After Effects" width="40" height="40" title="Adobe After Effects" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40" title="Canva" />
   </div>
@@ -56,7 +53,6 @@
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Meta Ads Manager" width="40" height="40" title="Meta Business Suite & Ads Manager" />
     <img src="https://www.vectorlogo.zone/logos/mailchimp/mailchimp-icon.svg" alt="Mailchimp" width="40" height="40" title="Mailchimp Email Marketing" />
     <img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg" alt="HubSpot" width="40" height="40" title="HubSpot CRM & Inbound Marketing" />
-    <img src="https://www.vectorlogo.zone/logos/semrush/semrush-icon.svg" alt="SEMrush" width="40" height="40" title="SEMrush (SEO Strategy)" />
   </div>
 </div>
 
