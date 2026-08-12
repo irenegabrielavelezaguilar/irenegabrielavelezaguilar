@@ -26,24 +26,24 @@
   <h3 style="margin-top: 0; color: #a371f7;">🎨 UX/UI & Product Design</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" title="Figma" />
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="Adobe XD" width="40" height="40" title="Adobe XD" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" alt="Adobe XD" width="40" height="40" title="Adobe XD" />
     <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch" width="40" height="40" title="Sketch" />
     <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="InVision" width="40" height="40" title="InVision" />
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="40" height="40" title="Framer" />
-    <img src="https://www.vectorlogo.zone/logos/miro/miro-icon.svg" alt="Miro" width="40" height="40" title="Miro" />
+    <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow" alt="Miro" height="40" title="Miro" />
     <img src="https://www.vectorlogo.zone/logos/zeplin/zeplin-icon.svg" alt="Zeplin" width="40" height="40" title="Zeplin" />
   </div>
 </div>
 
 <!-- GRAPHIC DESIGN & ADOBE CREATIVE SUITE -->
 <div style="background-color: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #30363d; margin-bottom: 20px;">
-  <h3 style="margin-top: 0; color: #ff7b72;">✨ Graphic Design & Adobe Creative Suite</h3>
+  <h3 style="margin-top: 0; color: #ff7b72;">✨ Graphic Design & Adobe Suite</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Photoshop" width="40" height="40" title="Adobe Photoshop" />
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-3.svg" alt="Illustrator" width="40" height="40" title="Adobe Illustrator" />
-    <img src="https://cdn.worldvectorlogo.com/logos/indesign-cc.svg" alt="InDesign" width="40" height="40" title="Adobe InDesign" />
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-lightroom-cc.svg" alt="Lightroom" width="40" height="40" title="Adobe Lightroom" />
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40" title="Canva" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40" title="Adobe Photoshop" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40" title="Adobe Illustrator" />
+    <img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="InDesign" height="40" title="Adobe InDesign" />
+    <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Lightroom" height="40" title="Adobe Lightroom" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40" title="Canva" />
   </div>
 </div>
 
@@ -51,11 +51,11 @@
 <div style="background-color: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #30363d; margin-bottom: 20px;">
   <h3 style="margin-top: 0; color: #f778ba;">🎬 Video Production & Motion Graphics</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-premiere-pro-cc.svg" alt="Premiere Pro" width="40" height="40" title="Adobe Premiere Pro" />
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-after-effects-cc.svg" alt="After Effects" width="40" height="40" title="Adobe After Effects" />
-    <img src="https://cdn.worldvectorlogo.com/logos/davinci-resolve-1.svg" alt="DaVinci Resolve" width="40" height="40" title="DaVinci Resolve" />
-    <img src="https://cdn.worldvectorlogo.com/logos/capcut.svg" alt="CapCut" width="40" height="40" title="CapCut" />
-    <img src="https://cdn.worldvectorlogo.com/logos/final-cut-pro-x.svg" alt="Final Cut Pro" width="40" height="40" title="Final Cut Pro" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premiere/premiere-plain.svg" alt="Premiere Pro" width="40" height="40" title="Adobe Premiere Pro" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-plain.svg" alt="After Effects" width="40" height="40" title="Adobe After Effects" />
+    <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve" height="40" title="DaVinci Resolve" />
+    <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" height="40" title="CapCut" />
+    <img src="https://img.shields.io/badge/Final_Cut_Pro-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Final Cut Pro" height="40" title="Final Cut Pro" />
   </div>
 </div>
 
@@ -68,7 +68,7 @@
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Meta Ads Manager" width="40" height="40" title="Meta Business Suite & Ads Manager" />
     <img src="https://www.vectorlogo.zone/logos/mailchimp/mailchimp-icon.svg" alt="Mailchimp" width="40" height="40" title="Mailchimp" />
     <img src="https://www.vectorlogo.zone/logos/hubspot/hubspot-icon.svg" alt="HubSpot" width="40" height="40" title="HubSpot CRM" />
-    <img src="https://cdn.worldvectorlogo.com/logos/semrush.svg" alt="SEMrush" width="40" height="40" title="SEMrush (SEO)" />
+    <img src="https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white" alt="SEMrush" height="40" title="SEMrush (SEO)" />
   </div>
 </div>
 
