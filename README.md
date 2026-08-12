@@ -24,15 +24,13 @@
 <!-- UX/UI & PRODUCT DESIGN -->
 <div style="background-color: #0d1117; padding: 15px; border-radius: 10px; border: 1px solid #30363d; margin-bottom: 20px;">
   <h3 style="margin-top: 0; color: #a371f7;">🎨 UX/UI & Product Design</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/Adobe_XD-FF6C37?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD" />
-    <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch" />
-    <img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=invision&logoColor=white" alt="InVision" />
-    <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
-    <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow" alt="Miro" />
-    <img src="https://img.shields.io/badge/Zeplin-FDAE2B?style=for-the-badge&logo=zeplin&logoColor=black" alt="Zeplin" />
-  </div>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="45" height="45" alt="Adobe XD" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" width="45" height="45" alt="Sketch" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="45" height="45" alt="Framer" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/miro/miro-original.svg" width="45" height="45" alt="Miro" />
+  </p>
 </div>
 
 <!-- GRAPHIC DESIGN & ADOBE SUITE -->
